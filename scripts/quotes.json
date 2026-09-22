@@ -1,0 +1,32 @@
+[
+  {
+    "quote": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "author": "Alan Turing",
+    "source": "Computing Machinery and Intelligence, 1950"
+  },
+  {
+    "quote": "AI is the new electricity.",
+    "author": "Andrew Ng",
+    "source": "2016"
+  },
+  {
+    "quote": "The hottest new programming language is English.",
+    "author": "Andrej Karpathy",
+    "source": "January 2023"
+  },
+  {
+    "quote": "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way.",
+    "author": "Demis Hassabis",
+    "source": "September 2024"
+  },
+  {
+    "quote": "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning.",
+    "author": "Yann LeCun",
+    "source": "NeurIPS, 2016"
+  },
+  {
+    "quote": "I believe in human-centered AI to benefit people in positive and benevolent ways.",
+    "author": "Fei-Fei Li",
+    "source": "Stanford HAI"
+  }
+]

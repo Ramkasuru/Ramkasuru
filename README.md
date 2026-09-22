@@ -12,7 +12,7 @@
 <!--LAB_BLOGS:START-->
 - **OpenAI**: [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai) (Sep 21, 2026)
 - **Google DeepMind**: [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) (Sep 15, 2026)
-- **Hugging Face**: [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) (Sep 21, 2026)
+- **Hugging Face**: [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) (Sep 22, 2026)
 - **Google Research**: [MilleMiglia: A realistic instance generator for middle-mile logistics](https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/) (Sep 18, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->

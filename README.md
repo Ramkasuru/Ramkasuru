@@ -11,6 +11,7 @@
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
 - **OpenAI**: [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) (Sep 25, 2026)
+- **Google DeepMind**: [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (Sep 24, 2026)
 - **Hugging Face**: [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark) (Sep 24, 2026)
 - **Google Research**: [Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/) (Sep 24, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
@@ -20,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> "AI is the new electricity."
 >
-> **Alan Turing**, Computing Machinery and Intelligence, 1950
+> **Andrew Ng**, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

@@ -10,20 +10,19 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol) (Sep 29, 2026)
-- **Google DeepMind**: [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (Sep 24, 2026)
-- **Hugging Face**: [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular) (Sep 29, 2026)
-- **Google Research**: [Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/) (Sep 24, 2026)
-- **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
+- **OpenAI**: [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) (Sep 30, 2026)
+- **Google DeepMind**: [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (Sep 30, 2026)
+- **Hugging Face**: [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) (Sep 30, 2026)
+- **Google Research**: [How Diffusion Controller unifies and simplifies AI image generation](https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/) (Sep 29, 2026)
 <!--LAB_BLOGS:END-->
 
 *A daily pull from OpenAI, Google DeepMind, Hugging Face, Google Research, and Berkeley BAIR. Auto-updated by a scheduled GitHub Action, see `scripts/update_readme.py`.*
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
+> "I believe in human-centered AI to benefit people in positive and benevolent ways."
 >
-> **Yann LeCun**, NeurIPS, 2016
+> **Fei-Fei Li**, Stanford HAI
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

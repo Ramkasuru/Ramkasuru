@@ -10,19 +10,20 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) (Sep 30, 2026)
-- **Google DeepMind**: [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (Sep 30, 2026)
-- **Hugging Face**: [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) (Sep 30, 2026)
+- **OpenAI**: [The eternal complement](https://openai.com/index/the-eternal-complement) (Oct 01, 2026)
+- **Google DeepMind**: [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (Sep 30, 2026)
+- **Hugging Face**: [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3) (Oct 01, 2026)
 - **Google Research**: [How Diffusion Controller unifies and simplifies AI image generation](https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/) (Sep 29, 2026)
+- **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
 
 *A daily pull from OpenAI, Google DeepMind, Hugging Face, Google Research, and Berkeley BAIR. Auto-updated by a scheduled GitHub Action, see `scripts/update_readme.py`.*
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe in human-centered AI to benefit people in positive and benevolent ways."
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
-> **Fei-Fei Li**, Stanford HAI
+> **Alan Turing**, Computing Machinery and Intelligence, 1950
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

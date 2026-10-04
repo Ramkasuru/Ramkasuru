@@ -11,7 +11,8 @@
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
 - **OpenAI**: [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) (Oct 02, 2026)
-- **Hugging Face**: [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) (Oct 02, 2026)
+- **Google DeepMind**: [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (Sep 30, 2026)
+- **Hugging Face**: [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) (Oct 03, 2026)
 - **Google Research**: [Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/) (Oct 02, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -20,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "The hottest new programming language is English."
+> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
 >
-> **Andrej Karpathy**, January 2023
+> **Demis Hassabis**, September 2024
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

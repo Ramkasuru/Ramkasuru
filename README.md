@@ -10,9 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance) (Oct 05, 2026)
-- **Hugging Face**: [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) (Oct 03, 2026)
-- **Google Research**: [Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/) (Oct 02, 2026)
+- **OpenAI**: [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad) (Oct 06, 2026)
+- **Hugging Face**: [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati) (Oct 06, 2026)
+- **Google Research**: [Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/) (Oct 06, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
 
@@ -20,9 +20,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
+> "I believe in human-centered AI to benefit people in positive and benevolent ways."
 >
-> **Yann LeCun**, NeurIPS, 2016
+> **Fei-Fei Li**, Stanford HAI
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

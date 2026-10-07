@@ -10,8 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad) (Oct 06, 2026)
-- **Hugging Face**: [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati) (Oct 06, 2026)
+- **OpenAI**: [Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan) (Oct 07, 2026)
+- **Google DeepMind**: [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (Oct 06, 2026)
+- **Hugging Face**: [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1) (Oct 07, 2026)
 - **Google Research**: [Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/) (Oct 06, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -20,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe in human-centered AI to benefit people in positive and benevolent ways."
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
-> **Fei-Fei Li**, Stanford HAI
+> **Alan Turing**, Computing Machinery and Intelligence, 1950
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

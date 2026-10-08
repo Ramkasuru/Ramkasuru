@@ -10,10 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan) (Oct 07, 2026)
-- **Google DeepMind**: [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (Oct 06, 2026)
+- **OpenAI**: [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle) (Oct 08, 2026)
 - **Hugging Face**: [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1) (Oct 07, 2026)
-- **Google Research**: [Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/) (Oct 06, 2026)
+- **Google Research**: [Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/) (Oct 07, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
 
@@ -21,9 +20,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> "AI is the new electricity."
 >
-> **Alan Turing**, Computing Machinery and Intelligence, 1950
+> **Andrew Ng**, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

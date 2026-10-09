@@ -10,8 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle) (Oct 08, 2026)
-- **Hugging Face**: [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1) (Oct 07, 2026)
+- **OpenAI**: [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) (Oct 09, 2026)
+- **Google DeepMind**: [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (Oct 06, 2026)
+- **Hugging Face**: [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling) (Oct 09, 2026)
 - **Google Research**: [Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/) (Oct 07, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -20,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "AI is the new electricity."
+> "The hottest new programming language is English."
 >
-> **Andrew Ng**, 2016
+> **Andrej Karpathy**, January 2023
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

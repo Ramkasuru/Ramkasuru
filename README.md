@@ -20,9 +20,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
+> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
 >
-> **Demis Hassabis**, September 2024
+> **Yann LeCun**, NeurIPS, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

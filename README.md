@@ -11,6 +11,7 @@
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
 - **OpenAI**: [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) (Oct 09, 2026)
+- **Google DeepMind**: [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (Oct 06, 2026)
 - **Hugging Face**: [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling) (Oct 09, 2026)
 - **Google Research**: [Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/) (Oct 07, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
@@ -20,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
+> "I believe in human-centered AI to benefit people in positive and benevolent ways."
 >
-> **Yann LeCun**, NeurIPS, 2016
+> **Fei-Fei Li**, Stanford HAI
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

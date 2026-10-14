@@ -10,10 +10,10 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice) (Oct 13, 2026)
-- **Google DeepMind**: [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (Oct 13, 2026)
-- **Hugging Face**: [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b) (Oct 13, 2026)
-- **Google Research**: [Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/) (Oct 07, 2026)
+- **OpenAI**: [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) (Oct 14, 2026)
+- **Google DeepMind**: [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (Oct 14, 2026)
+- **Hugging Face**: [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2) (Oct 14, 2026)
+- **Google Research**: [Research@ 2026: 10 ways we're amplifying human ingenuity](https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/) (Oct 14, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
 
@@ -21,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> "AI is the new electricity."
 >
-> **Alan Turing**, Computing Machinery and Intelligence, 1950
+> **Andrew Ng**, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

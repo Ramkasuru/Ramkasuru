@@ -10,10 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) (Oct 14, 2026)
-- **Google DeepMind**: [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (Oct 14, 2026)
-- **Hugging Face**: [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2) (Oct 14, 2026)
-- **Google Research**: [Research@ 2026: 10 ways we're amplifying human ingenuity](https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/) (Oct 14, 2026)
+- **OpenAI**: [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) (Oct 15, 2026)
+- **Hugging Face**: [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes) (Oct 15, 2026)
+- **Google Research**: [Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/) (Oct 14, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
 
@@ -21,9 +20,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "AI is the new electricity."
+> "The hottest new programming language is English."
 >
-> **Andrew Ng**, 2016
+> **Andrej Karpathy**, January 2023
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

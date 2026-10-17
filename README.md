@@ -10,10 +10,10 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan) (Oct 15, 2026)
+- **OpenAI**: [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) (Oct 16, 2026)
 - **Google DeepMind**: [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (Oct 15, 2026)
 - **Hugging Face**: [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) (Oct 16, 2026)
-- **Google Research**: [Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/) (Oct 14, 2026)
+- **Google Research**: [Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/) (Oct 16, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
 
@@ -21,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
+> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
 >
-> **Demis Hassabis**, September 2024
+> **Yann LeCun**, NeurIPS, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

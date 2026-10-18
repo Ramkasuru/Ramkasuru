@@ -21,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
+> "I believe in human-centered AI to benefit people in positive and benevolent ways."
 >
-> **Yann LeCun**, NeurIPS, 2016
+> **Fei-Fei Li**, Stanford HAI
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

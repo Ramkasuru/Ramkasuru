@@ -10,9 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) (Oct 16, 2026)
+- **OpenAI**: [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant) (Oct 20, 2026)
 - **Google DeepMind**: [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (Oct 15, 2026)
-- **Hugging Face**: [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) (Oct 16, 2026)
+- **Hugging Face**: [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress) (Oct 20, 2026)
 - **Google Research**: [Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/) (Oct 16, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -21,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> "AI is the new electricity."
 >
-> **Alan Turing**, Computing Machinery and Intelligence, 1950
+> **Andrew Ng**, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

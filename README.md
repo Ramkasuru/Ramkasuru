@@ -10,9 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) (Oct 21, 2026)
-- **Google DeepMind**: [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (Oct 15, 2026)
-- **Hugging Face**: [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization) (Oct 21, 2026)
+- **OpenAI**: [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means) (Oct 22, 2026)
+- **Google DeepMind**: [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (Oct 22, 2026)
+- **Hugging Face**: [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3) (Oct 22, 2026)
 - **Google Research**: [Empowering frontline maternal care with AI-assisted ultrasound](https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/) (Oct 21, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -21,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "The hottest new programming language is English."
+> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
 >
-> **Andrej Karpathy**, January 2023
+> **Demis Hassabis**, September 2024
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

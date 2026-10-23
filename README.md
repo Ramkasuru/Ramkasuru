@@ -10,9 +10,8 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means) (Oct 22, 2026)
-- **Google DeepMind**: [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (Oct 22, 2026)
-- **Hugging Face**: [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3) (Oct 22, 2026)
+- **OpenAI**: [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two) (Oct 23, 2026)
+- **Hugging Face**: [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot) (Oct 23, 2026)
 - **Google Research**: [Empowering frontline maternal care with AI-assisted ultrasound](https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/) (Oct 21, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -21,9 +20,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
+> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
 >
-> **Demis Hassabis**, September 2024
+> **Yann LeCun**, NeurIPS, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

@@ -10,9 +10,9 @@
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) (Oct 27, 2026)
-- **Google DeepMind**: [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (Oct 27, 2026)
-- **Hugging Face**: [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3) (Oct 27, 2026)
+- **OpenAI**: [The future of the firm](https://openai.com/index/the-future-of-the-firm) (Oct 28, 2026)
+- **Google DeepMind**: [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (Oct 28, 2026)
+- **Hugging Face**: [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary) (Oct 28, 2026)
 - **Google Research**: [The sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) (Oct 27, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -21,9 +21,9 @@
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "The hottest new programming language is English."
+> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
 >
-> **Andrej Karpathy**, January 2023
+> **Demis Hassabis**, September 2024
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

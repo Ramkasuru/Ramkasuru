@@ -32,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe in human-centered AI to benefit people in positive and benevolent ways."
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
-> **Fei-Fei Li**, Stanford HAI
+> **Alan Turing**, Computing Machinery and Intelligence, 1950
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

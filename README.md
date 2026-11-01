@@ -32,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> "AI is the new electricity."
 >
-> **Alan Turing**, Computing Machinery and Intelligence, 1950
+> **Andrew Ng**, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

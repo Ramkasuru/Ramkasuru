@@ -21,8 +21,8 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences) (Oct 30, 2026)
-- **Google DeepMind**: [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (Oct 28, 2026)
+- **OpenAI**: [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program) (Nov 02, 2026)
+- **Google DeepMind**: [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (Oct 30, 2026)
 - **Hugging Face**: [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween) (Oct 30, 2026)
 - **Google Research**: [The sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) (Oct 27, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
@@ -32,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "AI is the new electricity."
+> "The hottest new programming language is English."
 >
-> **Andrew Ng**, 2016
+> **Andrej Karpathy**, January 2023
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

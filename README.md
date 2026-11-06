@@ -21,9 +21,8 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber) (Nov 05, 2026)
-- **Google DeepMind**: [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (Nov 05, 2026)
-- **Hugging Face**: [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation) (Nov 05, 2026)
+- **OpenAI**: [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron) (Nov 06, 2026)
+- **Hugging Face**: [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks) (Nov 06, 2026)
 - **Google Research**: [Detecting signs of hypertension using wearable sensors](https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/) (Nov 05, 2026)
 - **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
 <!--LAB_BLOGS:END-->
@@ -32,9 +31,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe in human-centered AI to benefit people in positive and benevolent ways."
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
-> **Fei-Fei Li**, Stanford HAI
+> **Alan Turing**, Computing Machinery and Intelligence, 1950
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

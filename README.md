@@ -32,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "AI is the new electricity."
+> "The hottest new programming language is English."
 >
-> **Andrew Ng**, 2016
+> **Andrej Karpathy**, January 2023
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

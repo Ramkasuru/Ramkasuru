@@ -21,20 +21,20 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron) (Nov 06, 2026)
+- **OpenAI**: [ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace) (Nov 09, 2026)
 - **Google DeepMind**: [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (Nov 05, 2026)
-- **Hugging Face**: [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks) (Nov 06, 2026)
-- **Google Research**: [Detecting signs of hypertension using wearable sensors](https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/) (Nov 05, 2026)
-- **Berkeley BAIR**: [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/) (Jul 29, 2026)
+- **Hugging Face**: [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan) (Nov 09, 2026)
+- **Google Research**: [Exploring the world's languages with Language Explorer](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/) (Nov 09, 2026)
+- **Berkeley BAIR**: [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/) (Nov 09, 2026)
 <!--LAB_BLOGS:END-->
 
 *A daily pull from OpenAI, Google DeepMind, Hugging Face, Google Research, and Berkeley BAIR. Auto-updated by a scheduled GitHub Action, see `scripts/update_readme.py`.*
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "The hottest new programming language is English."
+> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
 >
-> **Andrej Karpathy**, January 2023
+> **Demis Hassabis**, September 2024
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

@@ -21,8 +21,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless) (Nov 12, 2026)
-- **Hugging Face**: [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy) (Nov 11, 2026)
+- **OpenAI**: [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/index/amplitude) (Nov 12, 2026)
+- **Google DeepMind**: [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (Nov 12, 2026)
+- **Hugging Face**: [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite) (Nov 12, 2026)
 - **Google Research**: [Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching](https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/) (Nov 11, 2026)
 - **Berkeley BAIR**: [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/) (Nov 09, 2026)
 <!--LAB_BLOGS:END-->
@@ -31,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe in human-centered AI to benefit people in positive and benevolent ways."
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
-> **Fei-Fei Li**, Stanford HAI
+> **Alan Turing**, Computing Machinery and Intelligence, 1950
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

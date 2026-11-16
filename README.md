@@ -21,9 +21,8 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet) (Nov 13, 2026)
-- **Google DeepMind**: [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (Nov 12, 2026)
-- **Hugging Face**: [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place) (Nov 13, 2026)
+- **OpenAI**: [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) (Nov 16, 2026)
+- **Hugging Face**: [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter) (Nov 16, 2026)
 - **Google Research**: [Advancing science & engineering with Antigravity’s /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) (Nov 13, 2026)
 - **Berkeley BAIR**: [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/) (Nov 09, 2026)
 <!--LAB_BLOGS:END-->
@@ -32,9 +31,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "I believe AI is going to be the most beneficial technology ever created, but only if we apply it in the right way and build it in the right way."
+> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
 >
-> **Demis Hassabis**, September 2024
+> **Yann LeCun**, NeurIPS, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

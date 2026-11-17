@@ -21,7 +21,8 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) (Nov 16, 2026)
+- **OpenAI**: [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol) (Nov 17, 2026)
+- **Google DeepMind**: [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (Nov 12, 2026)
 - **Hugging Face**: [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter) (Nov 16, 2026)
 - **Google Research**: [Advancing science & engineering with Antigravity’s /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) (Nov 13, 2026)
 - **Berkeley BAIR**: [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/) (Nov 09, 2026)
@@ -31,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
+> "I believe in human-centered AI to benefit people in positive and benevolent ways."
 >
-> **Yann LeCun**, NeurIPS, 2016
+> **Fei-Fei Li**, Stanford HAI
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

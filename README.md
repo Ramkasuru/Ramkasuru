@@ -21,9 +21,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo) (Nov 23, 2026)
+- **OpenAI**: [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) (Nov 24, 2026)
 - **Google DeepMind**: [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (Nov 23, 2026)
-- **Hugging Face**: [RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack) (Nov 23, 2026)
+- **Hugging Face**: [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) (Nov 24, 2026)
 - **Google Research**: [Supercharging transformer residual connections](https://research.google/blog/supercharging-transformer-residual-connections/) (Nov 23, 2026)
 - **Berkeley BAIR**: [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/) (Nov 09, 2026)
 <!--LAB_BLOGS:END-->

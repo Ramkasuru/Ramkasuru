@@ -21,10 +21,10 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
-- **OpenAI**: [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) (Nov 22, 2026)
-- **Google DeepMind**: [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/) (Nov 18, 2026)
-- **Hugging Face**: [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini) (Nov 20, 2026)
-- **Google Research**: [How Google Duplex evolved to also call businesses for you in Gemini](https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/) (Nov 20, 2026)
+- **OpenAI**: [OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo) (Nov 23, 2026)
+- **Google DeepMind**: [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (Nov 23, 2026)
+- **Hugging Face**: [RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack) (Nov 23, 2026)
+- **Google Research**: [Supercharging transformer residual connections](https://research.google/blog/supercharging-transformer-residual-connections/) (Nov 23, 2026)
 - **Berkeley BAIR**: [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/) (Nov 09, 2026)
 <!--LAB_BLOGS:END-->
 
@@ -32,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "If intelligence is a cake, the bulk of the cake is unsupervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning."
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 >
-> **Yann LeCun**, NeurIPS, 2016
+> **Alan Turing**, Computing Machinery and Intelligence, 1950
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:

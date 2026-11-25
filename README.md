@@ -22,9 +22,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 # 📰 Latest From the Labs
 <!--LAB_BLOGS:START-->
 - **OpenAI**: [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) (Nov 24, 2026)
-- **Google DeepMind**: [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (Nov 23, 2026)
-- **Hugging Face**: [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) (Nov 24, 2026)
-- **Google Research**: [Supercharging transformer residual connections](https://research.google/blog/supercharging-transformer-residual-connections/) (Nov 23, 2026)
+- **Google DeepMind**: [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/) (Nov 24, 2026)
+- **Hugging Face**: [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) (Nov 25, 2026)
+- **Google Research**: [Verifiable Social Reasoning for LLM Assistants](https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/) (Nov 25, 2026)
 - **Berkeley BAIR**: [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/) (Nov 09, 2026)
 <!--LAB_BLOGS:END-->
 
@@ -32,9 +32,9 @@ I'm looking for full-time roles in applied AI, ML and evaluation from January 20
 
 ### 💬 Quote I'm Sitting With
 <!--AI_QUOTE:START-->
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> "AI is the new electricity."
 >
-> **Alan Turing**, Computing Machinery and Intelligence, 1950
+> **Andrew Ng**, 2016
 <!--AI_QUOTE:END-->
 
 # 📊 GitHub Stats:
